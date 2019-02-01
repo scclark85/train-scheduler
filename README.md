@@ -1,6 +1,6 @@
 # train-scheduler
 
-Type in train, destination, time, and minutes of train and press submit.  You will see the schedule for the train listed above.
+Type in train name, any destination, (any) time of train, number of minutes for the ride, and press submit.  You will see the schedule for the train listed above.  Train information will be saved to firebase database.
 
 Project includes -
 HTML, CSS, JavaScript, jQuery, Moment.JS, firebase database, and bootstrap.
