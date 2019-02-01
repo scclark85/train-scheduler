@@ -1,0 +1,11 @@
+body {
+    background: rgb(241, 236, 226);
+}
+
+.jumbotron {
+background: rgba(255, 166, 0, 0.555);
+}
+
+.card-header {
+    background: rgba(125, 169, 235, 0.541);
+}
